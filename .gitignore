@@ -3,3 +3,4 @@ node_modules/
 .test-wallet.json
 test-ledger/
 PLAN.md
+*/verify.ts
